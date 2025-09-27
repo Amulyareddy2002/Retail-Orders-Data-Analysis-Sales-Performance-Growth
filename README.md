@@ -1,0 +1,2 @@
+# Retail-Orders-Data-Analysis-Sales-Performance-Growth
+Retail Orders Data Analysis (2022-2023): An E2E project using Python (Pandas/Matplotlib) and MySQL to analyze sales. It covers ETL, advanced SQL querying (Top 10 Products, Regional Leaders), and visualization of trends like Month-over-Month Growth and the 79% sales growth in the Supplies sub-category. Demonstrates full data pipeline proficiency.
